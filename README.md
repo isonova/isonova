@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on data science 
 - 📫 How to reach me [e-mail- iso.devansh@yahoo.com]
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Dev
+- ⚡ Fun fact: AI enthusiast
 
 <!---
 isonova/isonova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
