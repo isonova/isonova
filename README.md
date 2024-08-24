@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Devansh
-- 👀 I’m interested in data
-- 🌱 I’m currently learning machine and deep learning
-- 💞️ I’m looking to collaborate on data science using ANN
+- 👋 Hi, I’m Devansh.
+- 👀 I’m interested in data.
+- 🌱 I’m currently learning Machine and Deep learning.
+- 💞️ I’m looking to collaborate on Data Science using ANN.
 - 📫 How to reach me [e-mail- iso.devansh@yahoo.com]
 - 😄 Pronouns: Dev
 - ⚡ Fun fact: AI enthusiast
