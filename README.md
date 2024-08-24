@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @isonova
+- 👋 Hi, I’m Devansh
 - 👀 I’m interested in data
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on data science 
